@@ -209,3 +209,4 @@ Step 8: data: implement basic file downloading and directory structuring on 2026
 Step 9: data: add resolution filtering to skip low-res source images on 2026-01-08T14:15:04
 Step 10: data: write raw scraped metadata to data/metadata.jsonl on 2026-01-09T11:54:27
 Step 11: data: add duplicate image detection using image hashing on 2026-01-10T09:33:50
+Step 12: data: implement center-cropping and resizing to 512x512 on 2026-01-11T07:13:13
