@@ -213,3 +213,4 @@ Step 12: data: implement center-cropping and resizing to 512x512 on 2026-01-11T0
 Step 13: data: handle multi-threaded processing in data/preprocess.py on 2026-01-12T04:52:36
 Step 14: data: implement standard channel normalization for target dataset on 2026-01-13T02:31:59
 Step 15: data: build custom PyTorch Dataset class for processed latents on 2026-01-14T00:11:22
+Step 16: data: add dataset transform pipeline with random horizontal flips on 2026-01-14T21:50:45
