@@ -215,3 +215,4 @@ Step 14: data: implement standard channel normalization for target dataset on 20
 Step 15: data: build custom PyTorch Dataset class for processed latents on 2026-01-14T00:11:22
 Step 16: data: add dataset transform pipeline with random horizontal flips on 2026-01-14T21:50:45
 Step 17: data: optimize dataloader batching with pinned memory on 2026-01-15T19:30:08
+Step 18: models: initialize unet.py module skeleton on 2026-01-16T17:09:31
