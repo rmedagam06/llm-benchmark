@@ -219,3 +219,4 @@ Step 18: models: initialize unet.py module skeleton on 2026-01-16T17:09:31
 Step 19: models: implement sinusoidal timestep embeddings for diffusion steps on 2026-01-17T14:48:54
 Step 20: models: build foundational residual block for U-Net downsampling on 2026-01-18T12:28:17
 Step 21: models: add spatial downsampling layers using strided convolutions on 2026-01-19T10:07:40
+Step 22: models: build matching upsampling blocks with transposed convolutions on 2026-01-20T07:47:03
