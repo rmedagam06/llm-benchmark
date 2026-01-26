@@ -226,3 +226,4 @@ Step 25: models: implement latent space compression encoding method on 2026-01-2
 Step 26: models: add frozen CLIP text encoder integration on 2026-01-23T22:24:35
 Step 27: models: extract tokenized 77x768 text embeddings from CLIP on 2026-01-24T20:03:58
 Step 28: models: implement cross-attention block mechanism on 2026-01-25T17:43:21
+Step 29: models: inject cross-attention layers into U-Net bottleneck on 2026-01-26T15:22:44
