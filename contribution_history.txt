@@ -237,3 +237,4 @@ Step 36: diffusion: replace linear schedule with cosine beta schedule on 2026-02
 Step 37: diffusion: write forward diffusion process to add noise at step T on 2026-02-02T20:37:48
 Step 38: diffusion: calculate closed-form alpha bars for arbitrary timesteps on 2026-02-03T18:17:11
 Step 39: diffusion: verify Gaussian noise distribution limits at T=1000 on 2026-02-04T15:56:34
+Step 40: diffusion: implement ddim.py deterministic sampler class on 2026-02-05T13:35:57
