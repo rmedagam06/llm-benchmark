@@ -239,3 +239,4 @@ Step 38: diffusion: calculate closed-form alpha bars for arbitrary timesteps on 
 Step 39: diffusion: verify Gaussian noise distribution limits at T=1000 on 2026-02-04T15:56:34
 Step 40: diffusion: implement ddim.py deterministic sampler class on 2026-02-05T13:35:57
 Step 41: diffusion: write DDIM reverse ODE step equations on 2026-02-06T11:15:20
+Step 42: diffusion: add classifier-free guidance support with CFG scale parameter on 2026-02-07T08:54:43
