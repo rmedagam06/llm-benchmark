@@ -241,3 +241,4 @@ Step 40: diffusion: implement ddim.py deterministic sampler class on 2026-02-05T
 Step 41: diffusion: write DDIM reverse ODE step equations on 2026-02-06T11:15:20
 Step 42: diffusion: add classifier-free guidance support with CFG scale parameter on 2026-02-07T08:54:43
 Step 43: diffusion: implement unconditional null context using zero embeddings on 2026-02-08T06:34:06
+Step 44: diffusion: accelerate sampling loops to target 50 generation steps on 2026-02-09T04:13:29
