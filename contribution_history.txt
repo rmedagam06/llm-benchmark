@@ -244,3 +244,4 @@ Step 43: diffusion: implement unconditional null context using zero embeddings o
 Step 44: diffusion: accelerate sampling loops to target 50 generation steps on 2026-02-09T04:13:29
 Step 45: training: skeleton out main train.py loop on 2026-02-10T01:52:52
 Step 46: training: configure AdamW optimizer with weight decay metrics on 2026-02-10T23:32:15
+Step 47: training: implement learning rate scheduler with linear warmup on 2026-02-11T21:11:38
