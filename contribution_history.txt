@@ -249,3 +249,4 @@ Step 48: training: setup PyTorch AMP mixed-precision fp16 training on 2026-02-12
 Step 49: training: implement loss function calculating MSE on predicted noise on 2026-02-13T16:30:24
 Step 50: training: add gradient clipping to prevent explosion in deep layers on 2026-02-14T14:09:47
 Step 51: training: integrate Weights & Biases (wandb) initialization on 2026-02-15T11:49:10
+Step 52: training: log training loss and current learning rate to wandb on 2026-02-16T09:28:33
