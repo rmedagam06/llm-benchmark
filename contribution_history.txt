@@ -256,3 +256,4 @@ Step 55: training: build Exponential Moving Average (EMA) tracker for weights on
 Step 56: training: configure EMA decay rate to 0.9999 on 2026-02-20T00:06:05
 Step 57: training: add option to save final_ema_unet.pt at convergence on 2026-02-20T21:45:28
 Step 58: training: implement classifier-free guidance dropout logic at 10% on 2026-02-21T19:24:51
+Step 59: training: random caption replacement with empty strings on 2026-02-22T17:04:14
