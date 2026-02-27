@@ -261,3 +261,4 @@ Step 60: training: fix Windows multiprocessing support for dataloaders on 2026-0
 Step 61: training: resolve deprecation warnings in PyTorch tensor operations on 2026-02-24T12:23:00
 Step 62: training: add explicit wandb opt-in tracking flag on 2026-02-25T10:02:23
 Step 63: training: implement gradient checkpointing to save CUDA memory on 2026-02-26T07:41:46
+Step 64: training: track VRAM overhead reduction during backward pass on 2026-02-27T05:21:09
