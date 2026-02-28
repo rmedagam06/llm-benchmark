@@ -54,3 +54,4 @@ Step 53: training: implement model checkpoint saving logic every 5000 steps on 2
 Step 54: training: write serialization logic for checkpoints/ckpt_step.pt on 2026-02-28T16:54:00
 Step 55: training: build Exponential Moving Average (EMA) tracker for weights on 2026-02-28T16:32:00
 Step 56: training: configure EMA decay rate to 0.9999 on 2026-02-28T16:50:00
+Step 57: training: add option to save final_ema_unet.pt at convergence on 2026-02-28T16:28:00
