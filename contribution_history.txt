@@ -92,3 +92,4 @@ Step 91: training: verify trainable parameters drop to roughly 1-2% on 2026-02-2
 Step 92: training: write isolated 2000 step fine-tuning optimization pass on 2026-02-28T08:58:00
 Step 93: training: track adapter convergence behavior during fine-tuning on 2026-02-28T08:36:00
 Step 94: training: serialize fine-tuned adapter weights separately on 2026-02-28T08:14:00
+Step 95: docs: add architectural details and parameter counts to README on 2026-02-28T07:52:00
