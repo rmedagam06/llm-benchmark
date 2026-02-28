@@ -160,3 +160,4 @@ Step 59: training: random caption replacement with empty strings on 2026-02-28T1
 Step 60: training: fix Windows multiprocessing support for dataloaders on 2026-02-28T15:22:00
 Step 61: training: resolve deprecation warnings in PyTorch tensor operations on 2026-02-28T15:40:00
 Step 62: training: add explicit wandb opt-in tracking flag on 2026-02-28T15:18:00
+Step 63: training: implement gradient checkpointing to save CUDA memory on 2026-02-28T14:56:00
