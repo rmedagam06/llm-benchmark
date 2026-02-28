@@ -81,3 +81,4 @@ Step 80: inference: map prompt generation through the 50-step DDIM sampler on 20
 Step 81: inference: pass latents through frozen VAE decoder to yield pixel space on 2026-02-28T11:00:00
 Step 82: inference: format output image conversion to 512x512 PNG file on 2026-02-28T10:38:00
 Step 83: inference: add default saving path targeting output.png on 2026-02-28T10:56:00
+Step 84: inference: fix CPU execution fallback paths for inference pipeline on 2026-02-28T10:34:00
