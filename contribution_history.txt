@@ -43,3 +43,4 @@ Step 42: diffusion: add classifier-free guidance support with CFG scale paramete
 Step 43: diffusion: implement unconditional null context using zero embeddings on 2026-02-28T19:36:00
 Step 44: diffusion: accelerate sampling loops to target 50 generation steps on 2026-02-28T19:14:00
 Step 45: training: skeleton out main train.py loop on 2026-02-28T18:52:00
+Step 46: training: configure AdamW optimizer with weight decay metrics on 2026-02-28T18:30:00
