@@ -195,3 +195,4 @@ Step 94: training: serialize fine-tuned adapter weights separately on 2026-02-28
 Step 95: docs: add architectural details and parameter counts to README on 2026-02-28T07:52:00
 Step 96: docs: outline dataset creation and reproduction commands on 2026-02-28T07:30:00
 Step 97: docs: document installation instructions and required indexes on 2026-02-28T07:48:00
+Step 98: docs: provide inference examples with sample output configurations on 2026-02-28T07:26:00
