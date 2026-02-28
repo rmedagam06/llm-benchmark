@@ -53,3 +53,4 @@ Step 52: training: log training loss and current learning rate to wandb on 2026-
 Step 53: training: implement model checkpoint saving logic every 5000 steps on 2026-02-28T17:16:00
 Step 54: training: write serialization logic for checkpoints/ckpt_step.pt on 2026-02-28T16:54:00
 Step 55: training: build Exponential Moving Average (EMA) tracker for weights on 2026-02-28T16:32:00
+Step 56: training: configure EMA decay rate to 0.9999 on 2026-02-28T16:50:00
