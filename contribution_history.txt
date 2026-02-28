@@ -185,3 +185,4 @@ Step 84: inference: fix CPU execution fallback paths for inference pipeline on 2
 Step 85: training: create dedicated lora_finetune.py script on 2026-02-28T10:12:00
 Step 86: training: implement PEFT LoRA target injections on attention weights on 2026-02-28T09:50:00
 Step 87: training: target to_q and to_k projection layers for adaptation on 2026-02-28T09:28:00
+Step 88: training: target to_v and to_out projection layers for adaptation on 2026-02-28T09:46:00
