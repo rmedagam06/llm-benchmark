@@ -50,3 +50,4 @@ Step 49: training: implement loss function calculating MSE on predicted noise on
 Step 50: training: add gradient clipping to prevent explosion in deep layers on 2026-02-28T17:42:00
 Step 51: training: integrate Weights & Biases (wandb) initialization on 2026-02-28T18:00:00
 Step 52: training: log training loss and current learning rate to wandb on 2026-02-28T17:38:00
+Step 53: training: implement model checkpoint saving logic every 5000 steps on 2026-02-28T17:16:00
