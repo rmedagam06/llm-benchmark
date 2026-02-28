@@ -147,3 +147,4 @@ Step 46: training: configure AdamW optimizer with weight decay metrics on 2026-0
 Step 47: training: implement learning rate scheduler with linear warmup on 2026-02-28T18:48:00
 Step 48: training: setup PyTorch AMP mixed-precision fp16 training on 2026-02-28T18:26:00
 Step 49: training: implement loss function calculating MSE on predicted noise on 2026-02-28T18:04:00
+Step 50: training: add gradient clipping to prevent explosion in deep layers on 2026-02-28T17:42:00
