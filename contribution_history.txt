@@ -90,3 +90,4 @@ Step 89: training: set low-rank matrix rank parameter to 16 on 2026-02-28T09:24:
 Step 90: training: freeze base U-Net parameters completely on 2026-02-28T09:02:00
 Step 91: training: verify trainable parameters drop to roughly 1-2% on 2026-02-28T08:40:00
 Step 92: training: write isolated 2000 step fine-tuning optimization pass on 2026-02-28T08:58:00
+Step 93: training: track adapter convergence behavior during fine-tuning on 2026-02-28T08:36:00
