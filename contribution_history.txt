@@ -73,3 +73,4 @@ Step 72: eval: integrate pytorch-fid package processing on 2026-02-28T12:58:00
 Step 73: eval: implement device selection fallback for FID computations on 2026-02-28T12:36:00
 Step 74: eval: configure score comparisons against data/processed/512x512 on 2026-02-28T12:54:00
 Step 75: eval: log computed FID score direct to ongoing wandb run on 2026-02-28T12:32:00
+Step 76: inference: create dedicated generate.py script for end-users on 2026-02-28T12:10:00
