@@ -177,3 +177,4 @@ Step 76: inference: create dedicated generate.py script for end-users on 2026-02
 Step 77: inference: add argument parsing for checkpoint paths and text prompts on 2026-02-28T11:48:00
 Step 78: inference: load text-to-image latent pipeline with target weights on 2026-02-28T11:26:00
 Step 79: inference: handle custom text prompt tokenization inputs on 2026-02-28T11:44:00
+Step 80: inference: map prompt generation through the 50-step DDIM sampler on 2026-02-28T11:22:00
