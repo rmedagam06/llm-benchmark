@@ -162,3 +162,4 @@ Step 61: training: resolve deprecation warnings in PyTorch tensor operations on 
 Step 62: training: add explicit wandb opt-in tracking flag on 2026-02-28T15:18:00
 Step 63: training: implement gradient checkpointing to save CUDA memory on 2026-02-28T14:56:00
 Step 64: training: track VRAM overhead reduction during backward pass on 2026-02-28T14:34:00
+Step 65: training: profile compute penalty of activation recomputation on 2026-02-28T14:52:00
