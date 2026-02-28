@@ -174,3 +174,4 @@ Step 73: eval: implement device selection fallback for FID computations on 2026-
 Step 74: eval: configure score comparisons against data/processed/512x512 on 2026-02-28T12:54:00
 Step 75: eval: log computed FID score direct to ongoing wandb run on 2026-02-28T12:32:00
 Step 76: inference: create dedicated generate.py script for end-users on 2026-02-28T12:10:00
+Step 77: inference: add argument parsing for checkpoint paths and text prompts on 2026-02-28T11:48:00
