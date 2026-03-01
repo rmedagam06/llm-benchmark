@@ -263,3 +263,4 @@ Step 62: training: add explicit wandb opt-in tracking flag on 2026-02-25T10:02:2
 Step 63: training: implement gradient checkpointing to save CUDA memory on 2026-02-26T07:41:46
 Step 64: training: track VRAM overhead reduction during backward pass on 2026-02-27T05:21:09
 Step 65: training: profile compute penalty of activation recomputation on 2026-02-28T03:00:32
+Step 66: training: run smoke test of full pipeline on GTX 1050 4GB on 2026-03-01T00:39:55
