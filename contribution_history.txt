@@ -132,3 +132,4 @@ Step 31: models: fix dimension mismatch in attention projection blocks on 2026-0
 Step 32: models: verify tensor shapes across spatial dimensions in U-Net on 2026-02-28T21:38:00
 Step 33: models: optimize memory footprint by cleaning up redundant tensors on 2026-02-28T21:56:00
 Step 34: diffusion: initialize ddpm.py noise scheduler on 2026-02-28T21:34:00
+Step 35: diffusion: implement linear beta schedule bounds on 2026-02-28T21:12:00
