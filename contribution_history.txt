@@ -29,3 +29,4 @@ Step 28: models: implement cross-attention block mechanism on 2026-02-28T22:26:0
 Step 29: models: inject cross-attention layers into U-Net bottleneck on 2026-02-28T22:44:00
 Step 30: models: attach text conditioning cross-attention to decoder stages on 2026-02-28T22:22:00
 Step 31: models: fix dimension mismatch in attention projection blocks on 2026-02-28T22:00:00
+Step 32: models: verify tensor shapes across spatial dimensions in U-Net on 2026-02-28T21:38:00
