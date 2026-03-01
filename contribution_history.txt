@@ -138,3 +138,4 @@ Step 37: diffusion: write forward diffusion process to add noise at step T on 20
 Step 38: diffusion: calculate closed-form alpha bars for arbitrary timesteps on 2026-02-28T20:46:00
 Step 39: diffusion: verify Gaussian noise distribution limits at T=1000 on 2026-02-28T20:24:00
 Step 40: diffusion: implement ddim.py deterministic sampler class on 2026-02-28T20:02:00
+Step 41: diffusion: write DDIM reverse ODE step equations on 2026-02-28T19:40:00
