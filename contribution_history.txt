@@ -14,3 +14,4 @@ Step 13: data: handle multi-threaded processing in data/preprocess.py on 2026-03
 Step 14: data: implement standard channel normalization for target dataset on 2026-03-01T01:34:00
 Step 15: data: build custom PyTorch Dataset class for processed latents on 2026-03-01T01:52:00
 Step 16: data: add dataset transform pipeline with random horizontal flips on 2026-03-01T01:30:00
+Step 17: data: optimize dataloader batching with pinned memory on 2026-03-01T01:08:00
