@@ -21,3 +21,4 @@ Step 20: models: build foundational residual block for U-Net downsampling on 202
 Step 21: models: add spatial downsampling layers using strided convolutions on 2026-03-01T00:20:00
 Step 22: models: build matching upsampling blocks with transposed convolutions on 2026-02-28T23:58:00
 Step 23: models: implement standard skip connections between encoder and decoder on 2026-02-28T23:36:00
+Step 24: models: integrate pretrained Hugging Face VAE wrapper on 2026-02-28T23:54:00
