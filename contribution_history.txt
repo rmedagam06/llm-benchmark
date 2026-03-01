@@ -105,3 +105,4 @@ Step 4: data: stub out image scraping pipeline scripts on
 Step 5: data: implement beautifulsoup logic for wallpaper retrieval on 
 Step 6: data: add user-agent rotation to data/scrape.py on 2026-03-01T03:50:00
 Step 7: data: handle request timeouts and exception logging in scraper on 2026-03-01T03:28:00
+Step 8: data: implement basic file downloading and directory structuring on 2026-03-01T03:06:00
