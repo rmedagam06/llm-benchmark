@@ -107,3 +107,4 @@ Step 6: data: add user-agent rotation to data/scrape.py on 2026-03-01T03:50:00
 Step 7: data: handle request timeouts and exception logging in scraper on 2026-03-01T03:28:00
 Step 8: data: implement basic file downloading and directory structuring on 2026-03-01T03:06:00
 Step 9: data: add resolution filtering to skip low-res source images on 2026-03-01T02:44:00
+Step 10: data: write raw scraped metadata to data/metadata.jsonl on 2026-03-01T02:22:00
