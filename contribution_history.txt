@@ -127,3 +127,4 @@ Step 26: models: add frozen CLIP text encoder integration on 2026-02-28T23:10:00
 Step 27: models: extract tokenized 77x768 text embeddings from CLIP on 2026-02-28T22:48:00
 Step 28: models: implement cross-attention block mechanism on 2026-02-28T22:26:00
 Step 29: models: inject cross-attention layers into U-Net bottleneck on 2026-02-28T22:44:00
+Step 30: models: attach text conditioning cross-attention to decoder stages on 2026-02-28T22:22:00
