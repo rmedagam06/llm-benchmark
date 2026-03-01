@@ -36,3 +36,4 @@ Step 35: diffusion: implement linear beta schedule bounds on 2026-02-28T21:12:00
 Step 36: diffusion: replace linear schedule with cosine beta schedule on 2026-02-28T20:50:00
 Step 37: diffusion: write forward diffusion process to add noise at step T on 2026-02-28T20:28:00
 Step 38: diffusion: calculate closed-form alpha bars for arbitrary timesteps on 2026-02-28T20:46:00
+Step 39: diffusion: verify Gaussian noise distribution limits at T=1000 on 2026-02-28T20:24:00
