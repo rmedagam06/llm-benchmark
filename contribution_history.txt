@@ -266,3 +266,4 @@ Step 65: training: profile compute penalty of activation recomputation on 2026-0
 Step 66: training: run smoke test of full pipeline on GTX 1050 4GB on 2026-03-01T00:39:55
 Step 67: training: test deep layer stability on Google Colab T4 backend on 2026-03-01T22:19:18
 Step 68: training: scale training run configs up to target 200k steps on 2026-03-02T19:58:41
+Step 69: eval: initialize fid.py evaluation script on 2026-03-03T17:38:04
