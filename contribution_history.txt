@@ -270,3 +270,4 @@ Step 69: eval: initialize fid.py evaluation script on 2026-03-03T17:38:04
 Step 70: eval: write automated sample image generation loop on 2026-03-04T15:17:27
 Step 71: eval: generate 2000 evaluation samples from fixed prompt list on 2026-03-05T12:56:50
 Step 72: eval: integrate pytorch-fid package processing on 2026-03-06T10:36:13
+Step 73: eval: implement device selection fallback for FID computations on 2026-03-07T08:15:36
