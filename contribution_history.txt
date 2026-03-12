@@ -276,3 +276,4 @@ Step 75: eval: log computed FID score direct to ongoing wandb run on 2026-03-09T
 Step 76: inference: create dedicated generate.py script for end-users on 2026-03-10T02:13:45
 Step 77: inference: add argument parsing for checkpoint paths and text prompts on 2026-03-10T23:53:08
 Step 78: inference: load text-to-image latent pipeline with target weights on 2026-03-11T21:32:31
+Step 79: inference: handle custom text prompt tokenization inputs on 2026-03-12T19:11:54
