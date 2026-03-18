@@ -282,3 +282,4 @@ Step 81: inference: pass latents through frozen VAE decoder to yield pixel space
 Step 82: inference: format output image conversion to 512x512 PNG file on 2026-03-15T12:10:03
 Step 83: inference: add default saving path targeting output.png on 2026-03-16T09:49:26
 Step 84: inference: fix CPU execution fallback paths for inference pipeline on 2026-03-17T07:28:49
+Step 85: training: create dedicated lora_finetune.py script on 2026-03-18T05:08:12
