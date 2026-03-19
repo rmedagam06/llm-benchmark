@@ -283,3 +283,4 @@ Step 82: inference: format output image conversion to 512x512 PNG file on 2026-0
 Step 83: inference: add default saving path targeting output.png on 2026-03-16T09:49:26
 Step 84: inference: fix CPU execution fallback paths for inference pipeline on 2026-03-17T07:28:49
 Step 85: training: create dedicated lora_finetune.py script on 2026-03-18T05:08:12
+Step 86: training: implement PEFT LoRA target injections on attention weights on 2026-03-19T02:47:35
