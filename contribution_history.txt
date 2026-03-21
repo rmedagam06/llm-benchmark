@@ -286,3 +286,4 @@ Step 85: training: create dedicated lora_finetune.py script on 2026-03-18T05:08:
 Step 86: training: implement PEFT LoRA target injections on attention weights on 2026-03-19T02:47:35
 Step 87: training: target to_q and to_k projection layers for adaptation on 2026-03-20T00:26:58
 Step 88: training: target to_v and to_out projection layers for adaptation on 2026-03-20T22:06:21
+Step 89: training: set low-rank matrix rank parameter to 16 on 2026-03-21T19:45:44
