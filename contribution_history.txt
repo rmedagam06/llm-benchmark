@@ -287,3 +287,4 @@ Step 86: training: implement PEFT LoRA target injections on attention weights on
 Step 87: training: target to_q and to_k projection layers for adaptation on 2026-03-20T00:26:58
 Step 88: training: target to_v and to_out projection layers for adaptation on 2026-03-20T22:06:21
 Step 89: training: set low-rank matrix rank parameter to 16 on 2026-03-21T19:45:44
+Step 90: training: freeze base U-Net parameters completely on 2026-03-22T17:25:07
