@@ -289,3 +289,4 @@ Step 88: training: target to_v and to_out projection layers for adaptation on 20
 Step 89: training: set low-rank matrix rank parameter to 16 on 2026-03-21T19:45:44
 Step 90: training: freeze base U-Net parameters completely on 2026-03-22T17:25:07
 Step 91: training: verify trainable parameters drop to roughly 1-2% on 2026-03-23T15:04:30
+Step 92: training: write isolated 2000 step fine-tuning optimization pass on 2026-03-24T12:43:53
