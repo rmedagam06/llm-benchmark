@@ -291,3 +291,4 @@ Step 90: training: freeze base U-Net parameters completely on 2026-03-22T17:25:0
 Step 91: training: verify trainable parameters drop to roughly 1-2% on 2026-03-23T15:04:30
 Step 92: training: write isolated 2000 step fine-tuning optimization pass on 2026-03-24T12:43:53
 Step 93: training: track adapter convergence behavior during fine-tuning on 2026-03-25T10:23:16
+Step 94: training: serialize fine-tuned adapter weights separately on 2026-03-26T08:02:39
