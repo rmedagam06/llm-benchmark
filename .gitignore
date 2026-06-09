@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+data/results/*.db
+data/results/*.json
+models/
+adapters/
+*.gguf
+*.safetensors
+.pytest_cache/
+*.egg-info/
+dist/
+build/
