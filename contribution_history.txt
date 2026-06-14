@@ -2,3 +2,4 @@ Step 1: chore: initial repository structure setup on 2026-03-01T05:00:00
 Step 2: docs: initialize README with project overview and vision on 2026-02-28T07:00:00
 Step 3: setup: configure requirements.txt and basic dependencies on 
 Step 4: data: stub out image scraping pipeline scripts on 
+Step 5: data: implement beautifulsoup logic for wallpaper retrieval on 
