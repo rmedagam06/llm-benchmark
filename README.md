@@ -1,6 +1,6 @@
 # LLM Benchmark
 
-A platform for evaluating and optimizing open-source language models. It runs accuracy benchmarks, fine-tunes models on instruction data, tests different compression levels, and picks the best configuration based on a weighted score across accuracy, speed, and memory usage.
+A platform for evaluating and optimizing open-source language models. Runs accuracy benchmarks, fine-tunes models on instruction data, tests different compression levels, and selects the best configuration based on a weighted score across accuracy, speed, and memory usage.
 
 ---
 
@@ -13,7 +13,7 @@ Most LLM optimization workflows are manual — you pick a model, maybe quantize 
 3. **Quantization sweep** — exports the best adapter to GGUF format and tests Q4, Q5, and Q8 compression levels
 4. **Winner selection** — scores every configuration using a composite formula that weighs accuracy improvement against latency and memory cost, then prints a comparison table
 
-The end result is a table showing exactly how each configuration performed and which one won, with the reasoning explained.
+The result is a comparison table showing how each configuration performed and which one won, with the reasoning explained.
 
 ---
 
@@ -65,7 +65,7 @@ cp .env.example .env
 
 ## Running it
 
-**Benchmark a model:**
+**Benchmark a single model:**
 ```bash
 python scripts/run_benchmark.py \
   --model Qwen/Qwen2.5-3B-Instruct \
@@ -83,7 +83,7 @@ python scripts/run_optimize.py \
   --max-train-samples 3000
 ```
 
-**Print the results table:**
+**View the results table:**
 ```bash
 python scripts/report.py
 ```
