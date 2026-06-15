@@ -111,6 +111,6 @@ A configuration that cuts VRAM by 40% and speeds up response time by 25% can out
 
 ## Requirements
 
-- Python 3.10+
+- Python 3.10+ (recommended)
 - CUDA GPU with 8GB+ VRAM for 3B models in 4-bit
 - For GGUF quantization: llama.cpp built locally, path passed via `--llama-cpp-dir`
